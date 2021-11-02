@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "787869443768",
+    "firebase_url": "https://chatwme-1abab.firebaseio.com",
+    "project_id": "chatwme-1abab",
+    "storage_bucket": "chatwme-1abab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787869443768:android:e4504d10efe33fa355f64d",
+        "android_client_info": {
+          "package_name": "com.example.chatwme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787869443768-2284999u320hi2p7o4t975m4fgijhpp7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatwme",
+            "certificate_hash": "e5e3c9d76ac27e7ee10c8d7fb4d2d2d45aca3016"
+          }
+        },
+        {
+          "client_id": "787869443768-j5vq4pepfvlk866g0abfjih1fd8npuk4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxrIr2XADFwusz7gf9vG6OTm4CH0BpT0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787869443768-j5vq4pepfvlk866g0abfjih1fd8npuk4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
